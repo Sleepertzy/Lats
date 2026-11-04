@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulasi Bank Soal Kriptografi</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f1f5f9;
+      color: #1e293b;
+      margin: 0;
+      padding: 24px;
+    }
+    .container {
+      max-width: 760px;
+      margin: 0 auto;
+    }
+    .header {
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+    .card {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 24px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+    .badge {
+      display: inline-block;
+      background: #e2e8f0;
+      color: #475569;
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    .question-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      line-height: 1.5;
+    }
+    .question-image-box {
+      margin-bottom: 20px;
+      text-align: center;
+      display: none;
+    }
+    .question-image-box img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    }
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .option-btn {
+      text-align: left;
+      padding: 12px 16px;
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      background: #ffffff;
+      cursor: pointer;
+      font-size: 15px;
+      transition: all 0.2s;
+    }
+    .option-btn:hover {
+      background: #f8fafc;
+      border-color: #94a3b8;
+    }
+    .option-btn.correct {
+      background: #dcfce7;
+      border-color: #22c55e;
+      color: #15803d;
+      font-weight: 600;
+    }
+    .option-btn.incorrect {
+      background: #fee2e2;
+      border-color: #ef4444;
+      color: #b91c1c;
+    }
+    .explanation {
+      margin-top: 16px;
+      padding: 14px;
+      background: #f8fafc;
+      border-left: 4px solid #3b82f6;
+      border-radius: 4px;
+      font-size: 14px;
+      display: none;
+      line-height: 1.5;
+    }
+    .nav-buttons {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 24px;
+    }
+    button.nav {
+      padding: 10px 18px;
+      border: none;
+      border-radius: 8px;
+      background: #2563eb;
+      color: white;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button.nav:disabled {
+      background: #94a3b8;
+      cursor: not-allowed;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <h2 id="quiz-title" style="margin: 0 0 6px 0;">Memuat Kuis...</h2>
+    <span id="quiz-progress" style="font-size: 14px; color: #64748b;"></span>
+  </div>
+
+  <div class="card">
+    <div id="quiz-subject" class="badge"></div>
+    <div id="quiz-question" class="question-title"></div>
+    
+    <!-- Tempat Menampilkan Gambar Soal -->
+    <div id="quiz-image-box" class="question-image-box">
+      <img id="quiz-image" src="" alt="Gambar Soal" />
+    </div>
+
+    <div id="quiz-options" class="options"></div>
+    <div id="quiz-explanation" class="explanation"></div>
+
+    <div class="nav-buttons">
+      <button class="nav" id="prev-btn" onclick="prevQuestion()">Sebelumnya</button>
+      <button class="nav" id="next-btn" onclick="nextQuestion()">Selanjutnya</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  let questions = [];
+  let currentIndex = 0;
+
+  async function loadQuestions() {
+    try {
+      const res = await fetch('./bank_soal.json');
+      const data = await res.json();
+      document.getElementById('quiz-title').innerText = data.title;
+      questions = data.questions;
+      showQuestion(currentIndex);
+    } catch (err) {
+      document.getElementById('quiz-question').innerText = 
+        'Gagal memuat bank_soal.json. Pastikan file berada di folder yang sama dan dijalankan lewat Live Server.';
+    }
+  }
+
+  function showQuestion(idx) {
+    const q = questions[idx];
+    document.getElementById('quiz-progress').innerText = `Soal ${idx + 1} dari ${questions.length}`;
+    document.getElementById('quiz-subject').innerText = q.subject || 'Latihan';
+    document.getElementById('quiz-question').innerText = q.question;
+
+    // Logika menampilkan gambar dari folder images/
+    const imgBox = document.getElementById('quiz-image-box');
+    const imgTag = document.getElementById('quiz-image');
+    if (q.imageUrl) {
+      // Menghapus garis miring di awal jika ada (/images/x.png -> images/x.png)
+      const cleanPath = q.imageUrl.startsWith('/') ? q.imageUrl.substring(1) : q.imageUrl;
+      imgTag.src = cleanPath;
+      imgBox.style.display = 'block';
+    } else {
+      imgBox.style.display = 'none';
+      imgTag.src = '';
+    }
+
+    const optContainer = document.getElementById('quiz-options');
+    optContainer.innerHTML = '';
+
+    const expBox = document.getElementById('quiz-explanation');
+    expBox.style.display = 'none';
+
+    q.options.forEach(opt => {
+      const btn = document.createElement('button');
+      btn.className = 'option-btn';
+      btn.innerText = opt.text;
+      btn.onclick = () => selectOption(btn, opt.id, q.correctOptionId, q.explanation);
+      optContainer.appendChild(btn);
+    });
+
+    document.getElementById('prev-btn').disabled = (idx === 0);
+    document.getElementById('next-btn').disabled = (idx === questions.length - 1);
+  }
+
+  function selectOption(button, chosenId, correctId, explanation) {
+    const allButtons = document.querySelectorAll('.option-btn');
+    allButtons.forEach(btn => btn.disabled = true);
+
+    if (chosenId === correctId) {
+      button.classList.add('correct');
+    } else {
+      button.classList.add('incorrect');
+      allButtons.forEach(btn => {
+        const matchingOpt = questions[currentIndex].options.find(o => o.text === btn.innerText);
+        if (matchingOpt && matchingOpt.id === correctId) {
+          btn.classList.add('correct');
+        }
+      });
+    }
+
+    const expBox = document.getElementById('quiz-explanation');
+    expBox.innerHTML = `<strong>Kunci Jawaban:</strong> Selesai diverifikasi.<br>${explanation || ''}`;
+    expBox.style.display = 'block';
+  }
+
+  function prevQuestion() {
+    if (currentIndex > 0) {
+      currentIndex--;
+      showQuestion(currentIndex);
+    }
+  }
+
+  function nextQuestion() {
+    if (currentIndex < questions.length - 1) {
+      currentIndex++;
+      showQuestion(currentIndex);
+    }
+  }
+
+  loadQuestions();
+</script>
+</body>
+</html>

@@ -1,0 +1,2363 @@
+{
+  "title": "Kuis Baru SPADA (76 Soal)",
+  "description": "Kumpulan 76 soal resmi dari kuis SPADA Kriptografi. Waktu pengerjaan 49 menit tanpa toleransi.",
+  "questions": [
+    {
+      "id": "spada_q_01_6227148",
+      "subject": "Kuis SPADA (Halaman 1)",
+      "question": "....... adalah cipher bulat berdasarkan algoritma Rijndael yang menggunakan blok data 128-bit",
+      "prompt": "....... adalah cipher bulat berdasarkan algoritma Rijndael yang menggunakan blok data 128-bit",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "DES",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "3DES",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "AES"
+        },
+        {
+          "id": "opt_d",
+          "text": "AEE",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_02_6227070",
+      "subject": "Kuis SPADA (Halaman 2)",
+      "question": "Caesar Chiper: Enkripsi: rioi uitiuTeks Asli: jaga malamKey yang tepat, shift: ?",
+      "prompt": "Caesar Chiper: Enkripsi: rioi uitiuTeks Asli: jaga malamKey yang tepat, shift: ?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Juni",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Juli",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Agustus"
+        },
+        {
+          "id": "opt_d",
+          "text": "September",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_03_6227071",
+      "subject": "Kuis SPADA (Halaman 3)",
+      "question": "Dengan menggunakan kaedah Caesar Cipher, nyatakan teks sifer dari teks biasa \"MAJU\" dengan nilai kunci bersamaan dengan 3",
+      "prompt": "Dengan menggunakan kaedah Caesar Cipher, nyatakan teks sifer dari teks biasa \"MAJU\" dengan nilai kunci bersamaan dengan 3",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "OBKV",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "OCPY",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "NBKW",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "PDMX"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_04_6227072",
+      "subject": "Kuis SPADA (Halaman 4)",
+      "question": "Vigeneri Chiper mempunyai chiper text : esxp lssyb key: pempekplain text ?",
+      "prompt": "Vigeneri Chiper mempunyai chiper text : esxp lssyb key: pempekplain text ?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "pola hidup"
+        },
+        {
+          "id": "opt_b",
+          "text": "pola roids",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "pola makan",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "polo shirt",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "pola minum",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_05_6227149",
+      "subject": "Kuis SPADA (Halaman 5)",
+      "question": "....... adalah proses yang memverifikasi identitas pengguna yang ingin mengakses sistem.",
+      "prompt": "....... adalah proses yang memverifikasi identitas pengguna yang ingin mengakses sistem.",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Authentication"
+        },
+        {
+          "id": "opt_b",
+          "text": "Integrity",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Non-repudiation",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Semua salah",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_06_6227150",
+      "subject": "Kuis SPADA (Halaman 6)",
+      "question": "........ memastikan bahwa sebuah pesan/data nyata, akurat, dan terlindung dari modifikasi pengguna yang tidak sah selama transmisi.",
+      "prompt": "........ memastikan bahwa sebuah pesan/data nyata, akurat, dan terlindung dari modifikasi pengguna yang tidak sah selama transmisi.",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Authentication",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Integrity"
+        },
+        {
+          "id": "opt_c",
+          "text": "Non-repudiation",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "None of the above",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_07_6227116",
+      "subject": "Kuis SPADA (Halaman 7)",
+      "question": "....adalah teknik menyampaikan pesan secara tersembunyi dengan memanfaatkan fitur enkripsi data.",
+      "prompt": "....adalah teknik menyampaikan pesan secara tersembunyi dengan memanfaatkan fitur enkripsi data.",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Enkripsi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Kriptografi"
+        },
+        {
+          "id": "opt_c",
+          "text": "Dekripsi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Hashing",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_08_6227112",
+      "subject": "Kuis SPADA (Halaman 8)",
+      "question": "Algoritma asimetris menggunakan kunci yang ............... untuk proses enkripsi dan dekripsi",
+      "prompt": "Algoritma asimetris menggunakan kunci yang ............... untuk proses enkripsi dan dekripsi",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Sama",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Berbeda"
+        },
+        {
+          "id": "opt_c",
+          "text": "Mirip",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Semua Benar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_09_6227117",
+      "subject": "Kuis SPADA (Halaman 9)",
+      "question": "Algoritma Kriptografi simetris adalah....",
+      "prompt": "Algoritma Kriptografi simetris adalah....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Algoritma yang menggunakan kunci berbeda untuk plaintext dan chipertext",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Algoritma yang menggunakan kunci berbeda untuk enkripsi dan dekripsi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Algoritma yang menggunakan kunci yang sama untuk enkripsi dan dekripsi"
+        },
+        {
+          "id": "opt_d",
+          "text": "Algoritma yang menggunakan kunci berbeda untuk enkripsi dan cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_10_6227087",
+      "subject": "Kuis SPADA (Halaman 10)",
+      "question": "Apakah algoritma kriptografi ini?",
+      "prompt": "Apakah algoritma kriptografi ini?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Caesar Cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Rail Fence Cipher"
+        },
+        {
+          "id": "opt_c",
+          "text": "Pigpen Cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Atbash Cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "imageUrl": "/images/railfence_1.png",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_11_6227068",
+      "subject": "Kuis SPADA (Halaman 11)",
+      "question": "Apakah komponen utama semasa melakukan kriptografiI KunciII PlaintextIII ChipertextIV Algoritma",
+      "prompt": "Apakah komponen utama semasa melakukan kriptografiI KunciII PlaintextIII ChipertextIV Algoritma",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "I dan II",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "II, III dan IV",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "II dan III",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Semua Benar"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_12_6227088",
+      "subject": "Kuis SPADA (Halaman 12)",
+      "question": "Apakah kunci algoritma kriptografi ini?",
+      "prompt": "Apakah kunci algoritma kriptografi ini?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "2"
+        },
+        {
+          "id": "opt_b",
+          "text": "3",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "4",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "5",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "imageUrl": "/images/railfence_2.png",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_13_6227089",
+      "subject": "Kuis SPADA (Halaman 13)",
+      "question": "Apakah kunci bagi algoritma kriptografi ini?",
+      "prompt": "Apakah kunci bagi algoritma kriptografi ini?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "2",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "3",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "4"
+        },
+        {
+          "id": "opt_d",
+          "text": "5",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "imageUrl": "/images/caesar_1.png",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_14_6227104",
+      "subject": "Kuis SPADA (Halaman 14)",
+      "question": "Apakah kunci bagi Caesar Cipher jika abjad pertama bermula dengan abjad F?",
+      "prompt": "Apakah kunci bagi Caesar Cipher jika abjad pertama bermula dengan abjad F?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "8",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "5",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "6"
+        },
+        {
+          "id": "opt_d",
+          "text": "3",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_15_6227086",
+      "subject": "Kuis SPADA (Halaman 15)",
+      "question": "Apakah nama algoritma kriptografi ini?",
+      "prompt": "Apakah nama algoritma kriptografi ini?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Caesar Cipher"
+        },
+        {
+          "id": "opt_b",
+          "text": "Rail Fence Cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Pigpen Cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Atbash Cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "imageUrl": "/images/caesar_2.png",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_16_6227110",
+      "subject": "Kuis SPADA (Halaman 16)",
+      "question": "Aspek dari keamanan yang menjaga agar seseorang tidak dapat menyangkal telah terjadinya transaksi disebut:",
+      "prompt": "Aspek dari keamanan yang menjaga agar seseorang tidak dapat menyangkal telah terjadinya transaksi disebut:",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Acces control",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Integrity",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Availability",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Non repudiation"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_17_6227098",
+      "subject": "Kuis SPADA (Halaman 17)",
+      "question": "Aspek keamanan informasi pada kriptografi antara lain, kerahasian, keaslian, outentik dan tidak dapat disangkal. Padanan kata keaslian adalah",
+      "prompt": "Aspek keamanan informasi pada kriptografi antara lain, kerahasian, keaslian, outentik dan tidak dapat disangkal. Padanan kata keaslian adalah",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Confidentiality",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Authentication",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Renouncement",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Data Integrity"
+        },
+        {
+          "id": "opt_e",
+          "text": "Non-repudiation",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_18_6227099",
+      "subject": "Kuis SPADA (Halaman 18)",
+      "question": "Aspek keamanan informasi pada kriptografi antara lain, kerahasian, keaslian, outentik dan tidak dapat disangkal. Padanan kata \"tidak dapat disangkal\" adalah",
+      "prompt": "Aspek keamanan informasi pada kriptografi antara lain, kerahasian, keaslian, outentik dan tidak dapat disangkal. Padanan kata \"tidak dapat disangkal\" adalah",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Confidentiality",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Authentication",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Renouncement",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Data Integrity",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "Non-repudiation"
+        }
+      ],
+      "correctOptionId": "opt_e",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_19_6227140",
+      "subject": "Kuis SPADA (Halaman 19)",
+      "question": "Beberapa layanan yang TIDAK disediakan oleh kriptografi adalah....",
+      "prompt": "Beberapa layanan yang TIDAK disediakan oleh kriptografi adalah....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "data integrity, availability",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "acces control, availability"
+        },
+        {
+          "id": "opt_c",
+          "text": "data confidentiality, repudiation",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Tidak ada jawaban yang benar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_20_6227153",
+      "subject": "Kuis SPADA (Halaman 20)",
+      "question": "Berikut ini adalah indikator pertama Anda bahwa situs menggunakan digital certificate....",
+      "prompt": "Berikut ini adalah indikator pertama Anda bahwa situs menggunakan digital certificate....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "HTTPS in the URL",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "A lock symbol in the browser security bar"
+        },
+        {
+          "id": "opt_c",
+          "text": "HTTP in the URL",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "No lock symbol in the browser security bar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_21_6227120",
+      "subject": "Kuis SPADA (Halaman 21)",
+      "question": "Berikut ini bagian dari sistem kriptografi , kecuali....",
+      "prompt": "Berikut ini bagian dari sistem kriptografi , kecuali....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "algoritma kriptografi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "chiperteks",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "bit"
+        },
+        {
+          "id": "opt_d",
+          "text": "plainteks",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "kunci",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_22_6227108",
+      "subject": "Kuis SPADA (Halaman 22)",
+      "question": "Caesar cipher adalah merupakan:",
+      "prompt": "Caesar cipher adalah merupakan:",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Direcalphabetic cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Monoalphabetic Chiper"
+        },
+        {
+          "id": "opt_c",
+          "text": "Polyalphabetic cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Semua jawaban benar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_23_6227146",
+      "subject": "Kuis SPADA (Halaman 23)",
+      "question": "Cipher.......dapat dikategorikan menjadi dua yaitu monoalphabetic dan polyalphabetic",
+      "prompt": "Cipher.......dapat dikategorikan menjadi dua yaitu monoalphabetic dan polyalphabetic",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Substitusi"
+        },
+        {
+          "id": "opt_b",
+          "text": "additive",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Transposisi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "shift",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_24_6227111",
+      "subject": "Kuis SPADA (Halaman 24)",
+      "question": "Dalam algoritma enkripsi pernyataan C = E (K, P) menandakan C adalah merupakan:",
+      "prompt": "Dalam algoritma enkripsi pernyataan C = E (K, P) menandakan C adalah merupakan:",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Plaintext",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Chipertext"
+        },
+        {
+          "id": "opt_c",
+          "text": "Key",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Cryptography",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_25_6227142",
+      "subject": "Kuis SPADA (Halaman 25)",
+      "question": "Dalam kriptografi, urutan huruf dalam pesan diatur ulang dengan aturan dan key tertentu oleh.....",
+      "prompt": "Dalam kriptografi, urutan huruf dalam pesan diatur ulang dengan aturan dan key tertentu oleh.....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "ciphers transposisi"
+        },
+        {
+          "id": "opt_b",
+          "text": "ciphers transposisi dan ciphers substitusi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "ciphers substitusi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "quadratic cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_26_6227102",
+      "subject": "Kuis SPADA (Halaman 26)",
+      "question": "Dalam sistem keamanan database. XSS merupakan singkatan dari...",
+      "prompt": "Dalam sistem keamanan database. XSS merupakan singkatan dari...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "cross-site scripting"
+        },
+        {
+          "id": "opt_b",
+          "text": "extra-small scripting",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "cross-SQLscripting",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "xeno-site scripting",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "extra-erver scripting",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_27_6227143",
+      "subject": "Kuis SPADA (Halaman 27)",
+      "question": "Data encryption standard (DES) merupakan....",
+      "prompt": "Data encryption standard (DES) merupakan....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "block cipher"
+        },
+        {
+          "id": "opt_b",
+          "text": "bit cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "stream cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "byte cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_28_6227147",
+      "subject": "Kuis SPADA (Halaman 28)",
+      "question": "Data Encryyption Standard (DES) adalah metode enkripsi ........... yang diadopsi oleh pemerintah USA",
+      "prompt": "Data Encryyption Standard (DES) adalah metode enkripsi ........... yang diadopsi oleh pemerintah USA",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "simetris"
+        },
+        {
+          "id": "opt_b",
+          "text": "public",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "asimetris",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "private",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_29_6227095",
+      "subject": "Kuis SPADA (Halaman 29)",
+      "question": "Dengan menggunakan teknik 'reverse cipher', enkripsi pesan berikut, SAYA SUKA KRIPTOGRAFI",
+      "prompt": "Dengan menggunakan teknik 'reverse cipher', enkripsi pesan berikut, SAYA SUKA KRIPTOGRAFI",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "HZBZ HFPZ PIRKGLTIZUR"
+        },
+        {
+          "id": "opt_b",
+          "text": "HZBZ HFPZ PIRKGKTUR",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "HZBZ HFPZ PIRKHLHLUY",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "HZBZ HFPZ PIRKGLTUZIR",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_30_6227097",
+      "subject": "Kuis SPADA (Halaman 30)",
+      "question": "Dengan menggunakan teknik Caesar (shift 3) Cipher, enkripsi teks asal berikut: \"KRIPTOGRAFI\"",
+      "prompt": "Dengan menggunakan teknik Caesar (shift 3) Cipher, enkripsi teks asal berikut: \"KRIPTOGRAFI\"",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "NULSWRJUDIL"
+        },
+        {
+          "id": "opt_b",
+          "text": "NULSXRJUDIL",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "NULSWRJUDIJ",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "NULTWRJUDIL",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_31_6227109",
+      "subject": "Kuis SPADA (Halaman 31)",
+      "question": "Dibawah ini adalah hal-hal praktis yang perlu dilakukan untuk mendukung keamanan komputer, kecuali:",
+      "prompt": "Dibawah ini adalah hal-hal praktis yang perlu dilakukan untuk mendukung keamanan komputer, kecuali:",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Penggunaan teknik kriptografi untuk memastikan integritas perangkat lunak sistem",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Penggunaan teknik pemrograman yang aman pada saat membuat perangkat lunak",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Menghindari penggunaan OTP (One Time Password)"
+        },
+        {
+          "id": "opt_d",
+          "text": "Rutinitas pemeriksaan daftar log",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_32_6227094",
+      "subject": "Kuis SPADA (Halaman 32)",
+      "question": "Enkripsi karakter berikut menggunakan teknik...",
+      "prompt": "Enkripsi karakter berikut menggunakan teknik...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "return cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "repeat cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "reverse cipher"
+        },
+        {
+          "id": "opt_d",
+          "text": "rename cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "imageUrl": "/images/atbash_1.png",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_33_6227096",
+      "subject": "Kuis SPADA (Halaman 33)",
+      "question": "Enkripsi teks asal berikut menjadi chiper text menggunakan teknik Reverse Cipher. \" ASAS SAINS KOMPUTER\"",
+      "prompt": "Enkripsi teks asal berikut menjadi chiper text menggunakan teknik Reverse Cipher. \" ASAS SAINS KOMPUTER\"",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "ZHZH HZRMH PLNKFGVO",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "ZHZH HZRMU PLNKFGVI",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "ZHYH HZRMH PLNKFGVI",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "ZHZH HZRMH PLNKFGVI"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_34_6227145",
+      "subject": "Kuis SPADA (Halaman 34)",
+      "question": "Fungsi Hash mengambil sebuah blok data dan menghasilkan....",
+      "prompt": "Fungsi Hash mengambil sebuah blok data dan menghasilkan....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "string bit ukuran tetap"
+        },
+        {
+          "id": "opt_b",
+          "text": "string bit ukuran tetap dan string bit ukuran variabel",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "string bit ukuran variabel",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "string byte berukuran variabel",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_35_6227123",
+      "subject": "Kuis SPADA (Halaman 35)",
+      "question": "Hal yang membedakan antara kriptografi kunci simetris dengan kriptografi kunci asimetris adalah....",
+      "prompt": "Hal yang membedakan antara kriptografi kunci simetris dengan kriptografi kunci asimetris adalah....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Pada kriptografi kunci simetris membutuhkan kunci publik, sedangkan kriptografi kunci asimetris tidak membutuhkan kunci publik",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Tidak ada perbedaan antara kriptografi kunci simetris dan kriptografi kunci asimetris",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Pada kriptografi kunci simetris menggunakan kunci yang sama dalam melakukan enkripsi dan dekripsi sedangkan pada kriptografi kunci asimetris menggunakan kunci yang berbeda"
+        },
+        {
+          "id": "opt_d",
+          "text": "Pada kriptografi kunci simetris menggunakan kunci yang berbeda dalam melakukan enkripsi dan dekripsi sedangkan pada kriptografi kunci asimetris menggunakan kunci sama",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_36_6227114",
+      "subject": "Kuis SPADA (Halaman 36)",
+      "question": "Informasi yang telah tersandi disebut...",
+      "prompt": "Informasi yang telah tersandi disebut...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Chipertext"
+        },
+        {
+          "id": "opt_b",
+          "text": "Plantext",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Cryptography",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Key",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_37_6227106",
+      "subject": "Kuis SPADA (Halaman 37)",
+      "question": "Input dari decryption:",
+      "prompt": "Input dari decryption:",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Chipertext"
+        },
+        {
+          "id": "opt_b",
+          "text": "Key",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Plaintext",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Semua Benar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_38_6227121",
+      "subject": "Kuis SPADA (Halaman 38)",
+      "question": "inputan dari sebuah dekripsi adalah ?",
+      "prompt": "inputan dari sebuah dekripsi adalah ?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "algoritma kriptografi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "chiperteks"
+        },
+        {
+          "id": "opt_c",
+          "text": "bit",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "plainteks",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "kunci",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_39_6227139",
+      "subject": "Kuis SPADA (Halaman 39)",
+      "question": "Kelemahan dari Affine cipher mudah diserang dengan teknik.....",
+      "prompt": "Kelemahan dari Affine cipher mudah diserang dengan teknik.....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "hack-plaintext attack",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "known-plaintext attack"
+        },
+        {
+          "id": "opt_c",
+          "text": "brute force attack",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "known-analytical attack",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_40_6227093",
+      "subject": "Kuis SPADA (Halaman 40)",
+      "question": "Kepentingan kriptografi adalah melindungi keselamatan suatu pesan seperti berikut kecuali...",
+      "prompt": "Kepentingan kriptografi adalah melindungi keselamatan suatu pesan seperti berikut kecuali...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "kesulitan data (confidentiality)",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "pengesahan (authenticity)",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "integritas data (integrity)",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "masukan data (data entry)"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_41_6227100",
+      "subject": "Kuis SPADA (Halaman 41)",
+      "question": "Kriptanalis dicetuskan pertama kali pada abad 9, dan pada abad 17 memakan korban jiwa Queen mary of scotland. Nama singkat pencetus kriptanalis adalah....",
+      "prompt": "Kriptanalis dicetuskan pertama kali pada abad 9, dan pada abad 17 memakan korban jiwa Queen mary of scotland. Nama singkat pencetus kriptanalis adalah....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Galileo",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Socrates",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Thomas Phelippes",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Al-kwarismi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "Alkindi"
+        }
+      ],
+      "correctOptionId": "opt_e",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_42_6227125",
+      "subject": "Kuis SPADA (Halaman 42)",
+      "question": "Kriptografi adalah...",
+      "prompt": "Kriptografi adalah...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Ilmu dan seni yang mempelajari teknik menyembunyikan pesan dalam sebuah gambar"
+        },
+        {
+          "id": "opt_b",
+          "text": "Ilmu dan seni yang mempelajari teknik mengamankan pesan sehingga hanya pengirim dan penerima saja yang dapat membacanya",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Ilmu dan seni menemukan pesan yang tersembunyi dalam sebuah media digital",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Semua jawaban benar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_43_6227090",
+      "subject": "Kuis SPADA (Halaman 43)",
+      "question": "Kriptografi berasal dari bahasa.........",
+      "prompt": "Kriptografi berasal dari bahasa.........",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Arab",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Yunani"
+        },
+        {
+          "id": "opt_c",
+          "text": "Inggris",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Romawi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_44_6285519",
+      "subject": "Kuis SPADA (Halaman 44)",
+      "question": "Kriptografi berasal daripada dua suku kata, yaitu “kriptos” yang bermaksud tulis dan “graphein” bermaksud untuk sembunyi..",
+      "prompt": "Kriptografi berasal daripada dua suku kata, yaitu “kriptos” yang bermaksud tulis dan “graphein” bermaksud untuk sembunyi..",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "True",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "False",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_45_6227069",
+      "subject": "Kuis SPADA (Halaman 45)",
+      "question": "Kriptografi dapat dikatakan aman apabila memenuhi prasyarat berikut ini:A. Memiliki persamaan matematis komplekB. Ukuran cipher text sangat besarC. Waktu yang dibutuhkan untuk memecahkan ciphertext melampaui umur informasiD. Cost untuk memecahkan cipher text lebih tinggi dari nilai informasiE. Menggunakan kunci symetris dan asymetris",
+      "prompt": "Kriptografi dapat dikatakan aman apabila memenuhi prasyarat berikut ini:A. Memiliki persamaan matematis komplekB. Ukuran cipher text sangat besarC. Waktu yang dibutuhkan untuk memecahkan ciphertext melampaui umur informasiD. Cost untuk memecahkan cipher text lebih tinggi dari nilai informasiE. Menggunakan kunci symetris dan asymetris",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "A, B, C",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "A, C, D"
+        },
+        {
+          "id": "opt_c",
+          "text": "B, C, D",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "A, D, E",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_46_6227092",
+      "subject": "Kuis SPADA (Halaman 46)",
+      "question": "Maksud kriptografi ialah ....",
+      "prompt": "Maksud kriptografi ialah ....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "ilmu mengirimkan pesan dalam bentuk yang hanya dapat boleh dibaca oleh orang yang ditujukan saja"
+        },
+        {
+          "id": "opt_b",
+          "text": "ilmu untuk mengantar surat rahasia",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "ilmu untuk menyimpan pesan untuk disampaikan kepada umum",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "ilmu untuk menyimpan pesan di tempat rahasia",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_47_6227141",
+      "subject": "Kuis SPADA (Halaman 47)",
+      "question": "Manakah dari algoritma berikut yang tidak digunakan dalam kriptografi kunci asimetris?",
+      "prompt": "Manakah dari algoritma berikut yang tidak digunakan dalam kriptografi kunci asimetris?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "rsa algorithm",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "electronic code book algorithm"
+        },
+        {
+          "id": "opt_c",
+          "text": "diffie-hellman algorithm",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "dsa algorithm",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_48_6227151",
+      "subject": "Kuis SPADA (Halaman 48)",
+      "question": "Manakah dari berikut ini TIDAK akurat menggambarkan hashing...",
+      "prompt": "Manakah dari berikut ini TIDAK akurat menggambarkan hashing...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "One way math function",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Fixed Input Length"
+        },
+        {
+          "id": "opt_c",
+          "text": "Fixed Output Length",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Two different inputs almost never give the same output",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_49_6227155",
+      "subject": "Kuis SPADA (Halaman 49)",
+      "question": "Manakah dari berikut ini yang merupakan protokol kriptografi yang digunakan untuk mengamankan koneksi HTTP?",
+      "prompt": "Manakah dari berikut ini yang merupakan protokol kriptografi yang digunakan untuk mengamankan koneksi HTTP?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "stream control transmission protocol (SCTP)",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "explicit congestion notification (ECN)",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "transport layer security (TLS)"
+        },
+        {
+          "id": "opt_d",
+          "text": "resource reservation protocol",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_50_6227136",
+      "subject": "Kuis SPADA (Halaman 50)",
+      "question": "Manakah dari berikut ini yang merupakan protokol kriptografi yang digunakan untuk mengamankan koneksi HTTP?",
+      "prompt": "Manakah dari berikut ini yang merupakan protokol kriptografi yang digunakan untuk mengamankan koneksi HTTP?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "stream control transmission protocol (SCTP)",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "explicit congestion notification (ECN)",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "transport layer security (TLS)"
+        },
+        {
+          "id": "opt_d",
+          "text": "resource reservation protocol",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_51_6227157",
+      "subject": "Kuis SPADA (Halaman 51)",
+      "question": "Message digest yang dihasilkan dari Hash function untuk mentriger MACs | MICs adalah layanan kriptografi....",
+      "prompt": "Message digest yang dihasilkan dari Hash function untuk mentriger MACs | MICs adalah layanan kriptografi....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Confidentiality &amp; Data Integrity",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Authentication &amp; Data Integrity"
+        },
+        {
+          "id": "opt_c",
+          "text": "Renouncement &amp; Non-repudiation",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Confidentiality &amp; Non-repudiation",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_52_6227160",
+      "subject": "Kuis SPADA (Halaman 52)",
+      "question": "Mode operasi cipher blok yang dapat dibuat menjadi stream cipher adalah.......A. CounterB. CFB 8-bitC. OFB 8-bit",
+      "prompt": "Mode operasi cipher blok yang dapat dibuat menjadi stream cipher adalah.......A. CounterB. CFB 8-bitC. OFB 8-bit",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "A, B, dan C benar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "B dan C benar"
+        },
+        {
+          "id": "opt_c",
+          "text": "A dan B benar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Semua jawaban salah",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_53_6227101",
+      "subject": "Kuis SPADA (Halaman 53)",
+      "question": "Pada algoritma kriptografi klasik, kita kenal caesar cipher dan pada sistem operasi unix dikenal ..... yang memiliki keunikan \"apabila sebuah pesan/plain text dilakukan(enkripsi) dengan metode ini sebanyak 2x maka pesan akan kembali ke semula (plain text)",
+      "prompt": "Pada algoritma kriptografi klasik, kita kenal caesar cipher dan pada sistem operasi unix dikenal ..... yang memiliki keunikan \"apabila sebuah pesan/plain text dilakukan(enkripsi) dengan metode ini sebanyak 2x maka pesan akan kembali ke semula (plain text)",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Cipher abjad tunggal",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "MD5",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "ROT13"
+        },
+        {
+          "id": "opt_d",
+          "text": "Vegenere cipher",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "Hash",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_54_6227154",
+      "subject": "Kuis SPADA (Halaman 54)",
+      "question": "Pada enkripsi ......, digunakan sepasang kunci/key yang berbeda",
+      "prompt": "Pada enkripsi ......, digunakan sepasang kunci/key yang berbeda",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "simetris",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "asimetris"
+        },
+        {
+          "id": "opt_c",
+          "text": "semua salah",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "semua benar",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_55_6227105",
+      "subject": "Kuis SPADA (Halaman 55)",
+      "question": "Pada Perang Dunia ke-2, tentera Nazi-Jerman mencipta sejenis mesin yang menggunakan sistem sifer dan kunci yang sangat kompleks. Mesin tersebut ialah .....",
+      "prompt": "Pada Perang Dunia ke-2, tentera Nazi-Jerman mencipta sejenis mesin yang menggunakan sistem sifer dan kunci yang sangat kompleks. Mesin tersebut ialah .....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "mesin Braille",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "mesin Enigma"
+        },
+        {
+          "id": "opt_c",
+          "text": "mesin Dialisis",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "mesin Faks",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_56_6227091",
+      "subject": "Kuis SPADA (Halaman 56)",
+      "question": "Perkataan Yunani 'kriptos' bermaksud...",
+      "prompt": "Perkataan Yunani 'kriptos' bermaksud...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Terlihat jelas",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Kripto",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Pesan",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Rahasia"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_57_6227159",
+      "subject": "Kuis SPADA (Halaman 57)",
+      "question": "Pernyataan manakah yang tidak benar tentang RC4?",
+      "prompt": "Pernyataan manakah yang tidak benar tentang RC4?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Pembangkitan kunci alir (keystream) terdapat pada subproses PRGA",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Panjang kunci eksternal maksimal 256 byte",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Kesalahan satu bit pada plainteks hanya menghasilkan kesalahan pada cipherteks yang berkoresponden",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Keystream yang dapat dibangkitkan oleh RC4 terbatas banyaknya"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_58_6227138",
+      "subject": "Kuis SPADA (Halaman 58)",
+      "question": "Pesan \"letters\" dienkripsi menggunakan algoritma Caesar ciphermenghasilkan output \"cvkkvij\". Kunci apa yang digunakan?",
+      "prompt": "Pesan \"letters\" dienkripsi menggunakan algoritma Caesar ciphermenghasilkan output \"cvkkvij\". Kunci apa yang digunakan?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "16",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "17"
+        },
+        {
+          "id": "opt_c",
+          "text": "18",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "19",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_59_6227107",
+      "subject": "Kuis SPADA (Halaman 59)",
+      "question": "Pesan yang akan disampaikan dapat disamarkan atau disembunyikan maknanya agar kalau sampai jatuh ke tangan yang tidak berhak, maka maknanya tidak dapat dimengerti adalah:",
+      "prompt": "Pesan yang akan disampaikan dapat disamarkan atau disembunyikan maknanya agar kalau sampai jatuh ke tangan yang tidak berhak, maka maknanya tidak dapat dimengerti adalah:",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Authentikasi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Enkripsi"
+        },
+        {
+          "id": "opt_c",
+          "text": "Dekripsi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Kriptologi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_60_6227118",
+      "subject": "Kuis SPADA (Halaman 60)",
+      "question": "Proses mengacak data sehingga tidak dapat dibaca pihak lain disebut...",
+      "prompt": "Proses mengacak data sehingga tidak dapat dibaca pihak lain disebut...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "kriptografi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "deskripsi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "graphotext",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "plain text",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "enkripsi"
+        }
+      ],
+      "correctOptionId": "opt_e",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_61_6227113",
+      "subject": "Kuis SPADA (Halaman 61)",
+      "question": "Proses yang digunakan untuk mengubah informasi asli menjadi informasi yang tersandi disebut..",
+      "prompt": "Proses yang digunakan untuk mengubah informasi asli menjadi informasi yang tersandi disebut..",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Enkripsi",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Dekripsi"
+        },
+        {
+          "id": "opt_c",
+          "text": "Algoritma",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Chipertext",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_62_6227124",
+      "subject": "Kuis SPADA (Halaman 62)",
+      "question": "Salah satu layanan dalam kriptografi adalah confidentiality yang artinya...",
+      "prompt": "Salah satu layanan dalam kriptografi adalah confidentiality yang artinya...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Menjamin pesan agar dapat di akses setiap saat",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Memastikan agar pesan sampai di tujuan",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Menjaga pesan agar tidak berubah saat ditransmisikan",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Menjaga agar pesan hanya dapat dibaca oleh penerima yang sah"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_63_6227119",
+      "subject": "Kuis SPADA (Halaman 63)",
+      "question": "Sejarah penggunaan teknik kriptografi di Yunani menggunakan alat yang di sebut ?",
+      "prompt": "Sejarah penggunaan teknik kriptografi di Yunani menggunakan alat yang di sebut ?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Scytale"
+        },
+        {
+          "id": "opt_b",
+          "text": "Tales",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Cyclops",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Chiper",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_64_6227133",
+      "subject": "Kuis SPADA (Halaman 64)",
+      "question": "Serangan kriptografi berdasarkan ketersediaan data terdapat 5 model/jenis, antara lain...A. Brute force attackB. Denial of service attackC. Analytical attackD. Chosen-plaintext attackE. Chipertext-only attack",
+      "prompt": "Serangan kriptografi berdasarkan ketersediaan data terdapat 5 model/jenis, antara lain...A. Brute force attackB. Denial of service attackC. Analytical attackD. Chosen-plaintext attackE. Chipertext-only attack",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "A, B",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "B, C",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "C, D",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "D, E"
+        },
+        {
+          "id": "opt_e",
+          "text": "A, E",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_65_6227132",
+      "subject": "Kuis SPADA (Halaman 65)",
+      "question": "Serangan kriptografi berdasarkan metode menemukan kunci antara lain....A. Brute force attackB. Known plain-text attackC. Analytical attackD. Chosen-plaintext attackE. Chipertext-only attack",
+      "prompt": "Serangan kriptografi berdasarkan metode menemukan kunci antara lain....A. Brute force attackB. Known plain-text attackC. Analytical attackD. Chosen-plaintext attackE. Chipertext-only attack",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "A, B",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "A, C"
+        },
+        {
+          "id": "opt_c",
+          "text": "A, D",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "B, C",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_e",
+          "text": "B, D",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_66_6227144",
+      "subject": "Kuis SPADA (Halaman 66)",
+      "question": "Sistem enkripsi ElGamal adalah....",
+      "prompt": "Sistem enkripsi ElGamal adalah....",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "symmetric key encryption algorithm",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "not an encryption algorithm",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "asymmetric key encryption algorithm"
+        },
+        {
+          "id": "opt_d",
+          "text": "block cipher method",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_c",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_67_6227152",
+      "subject": "Kuis SPADA (Halaman 67)",
+      "question": "This is the generic name for the outcome of a hash function or algorithm.",
+      "prompt": "This is the generic name for the outcome of a hash function or algorithm.",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Checksum"
+        },
+        {
+          "id": "opt_b",
+          "text": "Message-Digest Algorithm - MD",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Secure Hash Algorithm - SHA",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Encryption Key",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_68_6227122",
+      "subject": "Kuis SPADA (Halaman 68)",
+      "question": "Tujuan dari implementasi kriptografi adalah ?",
+      "prompt": "Tujuan dari implementasi kriptografi adalah ?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "mengamankan data/pesan"
+        },
+        {
+          "id": "opt_b",
+          "text": "mengcopy data",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "menghapus data",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "duplikasi data",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_69_6227126",
+      "subject": "Kuis SPADA (Halaman 69)",
+      "question": "Yang dimaksud dengan menjaga integritas data adalah...",
+      "prompt": "Yang dimaksud dengan menjaga integritas data adalah...",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Data dapat berubah",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Data dapat diakses dengan mudah",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Data dapat di restore dengan cepat",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Data tidak berubah dan utuh"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_70_6227103",
+      "subject": "Kuis SPADA (Halaman 70)",
+      "question": "Yang manakah pernyataan berikut merupakan definisi encryption ?",
+      "prompt": "Yang manakah pernyataan berikut merupakan definisi encryption ?",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Satu kajian tentang teknik kerahasiaan atau dikenali sebagai keamanan komunikasi data",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Satu proses perubahan teks biasa kepada chiper text, yaitu teks dalam bentuk yang tidak bermakna apabila dibaca"
+        },
+        {
+          "id": "opt_c",
+          "text": "satu proses yang berlaku terhadap chiper text untuk mendapatkan kembali teks biasa yang asal",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Satu teknik chiper yang paling mudah. teknik ini menggunakan cara untuk menyulitkan pesan",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_71_6227137",
+      "subject": "Kuis SPADA (Halaman 71)",
+      "question": "Yang tidak termasuk layanan yang diberikan oleh kriptografi",
+      "prompt": "Yang tidak termasuk layanan yang diberikan oleh kriptografi",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "Confidentiality",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "Authentication",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_c",
+          "text": "Integrity",
+          "whyIncorrect": "Pilihan ini bukan merupakan jawaban yang tepat menurut kunci bank soal."
+        },
+        {
+          "id": "opt_d",
+          "text": "Repudiation"
+        }
+      ],
+      "correctOptionId": "opt_d",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_72_6227127",
+      "subject": "Kuis SPADA (Halaman 72)",
+      "question": "Decryption adalah proses merubah suatu pesan dalam bentuk kode kepada pesan baru",
+      "prompt": "Decryption adalah proses merubah suatu pesan dalam bentuk kode kepada pesan baru",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "True",
+          "whyIncorrect": "Pilihan ini salah menurut kunci soal."
+        },
+        {
+          "id": "opt_b",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "opt_b",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_73_6227128",
+      "subject": "Kuis SPADA (Halaman 73)",
+      "question": "Encryption ialah proses untuk mengaburkan pesan supaya tidak dapat di baca dengan khusus",
+      "prompt": "Encryption ialah proses untuk mengaburkan pesan supaya tidak dapat di baca dengan khusus",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "True"
+        },
+        {
+          "id": "opt_b",
+          "text": "False",
+          "whyIncorrect": "Pilihan ini salah menurut kunci soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_74_6227129",
+      "subject": "Kuis SPADA (Halaman 74)",
+      "question": "Langkah proses kriptografi ada dua yaitu enkripsi (encryption) dan dekripsi (decryption)",
+      "prompt": "Langkah proses kriptografi ada dua yaitu enkripsi (encryption) dan dekripsi (decryption)",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "True"
+        },
+        {
+          "id": "opt_b",
+          "text": "False",
+          "whyIncorrect": "Pilihan ini salah menurut kunci soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_75_6227131",
+      "subject": "Kuis SPADA (Halaman 75)",
+      "question": "Substitution cipher merupakan teknik menggeser abjad berdasarkan kata kunci",
+      "prompt": "Substitution cipher merupakan teknik menggeser abjad berdasarkan kata kunci",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "True"
+        },
+        {
+          "id": "opt_b",
+          "text": "False",
+          "whyIncorrect": "Pilihan ini salah menurut kunci soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    },
+    {
+      "id": "spada_q_76_6227130",
+      "subject": "Kuis SPADA (Halaman 76)",
+      "question": "Tulisan Hieroglif ini ialah satu contoh kriptografi",
+      "prompt": "Tulisan Hieroglif ini ialah satu contoh kriptografi",
+      "options": [
+        {
+          "id": "opt_a",
+          "text": "True"
+        },
+        {
+          "id": "opt_b",
+          "text": "False",
+          "whyIncorrect": "Pilihan ini salah menurut kunci soal."
+        }
+      ],
+      "correctOptionId": "opt_a",
+      "explanation": "Jawaban ini sesuai dengan kunci dari BANKSOAL.",
+      "studyMaterial": "Silakan rujuk materi kuliah untuk memperdalam konsep ini.",
+      "type": "multiple-choice"
+    }
+  ]
+}

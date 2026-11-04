@@ -1,0 +1,517 @@
+// Moodle GIFT format exported from QuizApp
+// Bank Soal: Kuis Baru SPADA (76 Soal)
+// Jumlah Soal: 76
+
+::Soal 1::[html]<p>....... adalah cipher bulat berdasarkan algoritma Rijndael yang menggunakan blok data 128-bit</p>{
+	~DES
+	~3DES
+	=AES
+	~AEE
+}
+
+::Soal 2::[html]<p>Caesar Chiper: Enkripsi: rioi uitiuTeks Asli: jaga malamKey yang tepat, shift: ?</p>{
+	~Juni
+	~Juli
+	=Agustus
+	~September
+}
+
+::Soal 3::[html]<p>Dengan menggunakan kaedah Caesar Cipher, nyatakan teks sifer dari teks biasa "MAJU" dengan nilai kunci bersamaan dengan 3</p>{
+	~OBKV
+	~OCPY
+	~NBKW
+	=PDMX
+}
+
+::Soal 4::[html]<p>Vigeneri Chiper mempunyai chiper text : esxp lssyb key: pempekplain text ?</p>{
+	=pola hidup
+	~pola roids
+	~pola makan
+	~polo shirt
+	~pola minum
+}
+
+::Soal 5::[html]<p>....... adalah proses yang memverifikasi identitas pengguna yang ingin mengakses sistem.</p>{
+	=Authentication
+	~Integrity
+	~Non-repudiation
+	~Semua salah
+}
+
+::Soal 6::[html]<p>........ memastikan bahwa sebuah pesan/data nyata, akurat, dan terlindung dari modifikasi pengguna yang tidak sah selama transmisi.</p>{
+	~Authentication
+	=Integrity
+	~Non-repudiation
+	~None of the above
+}
+
+::Soal 7::[html]<p>....adalah teknik menyampaikan pesan secara tersembunyi dengan memanfaatkan fitur enkripsi data.</p>{
+	~Enkripsi
+	=Kriptografi
+	~Dekripsi
+	~Hashing
+}
+
+::Soal 8::[html]<p>Algoritma asimetris menggunakan kunci yang ............... untuk proses enkripsi dan dekripsi</p>{
+	~Sama
+	=Berbeda
+	~Mirip
+	~Semua Benar
+}
+
+::Soal 9::[html]<p>Algoritma Kriptografi simetris adalah....</p>{
+	~Algoritma yang menggunakan kunci berbeda untuk plaintext dan chipertext
+	~Algoritma yang menggunakan kunci berbeda untuk enkripsi dan dekripsi
+	=Algoritma yang menggunakan kunci yang sama untuk enkripsi dan dekripsi
+	~Algoritma yang menggunakan kunci berbeda untuk enkripsi dan cipher
+}
+
+::Soal 10::[html]<p><img src="images/railfence_1.png" /><br />Apakah algoritma kriptografi ini?</p>{
+	~Caesar Cipher
+	=Rail Fence Cipher
+	~Pigpen Cipher
+	~Atbash Cipher
+}
+
+::Soal 11::[html]<p>Apakah komponen utama semasa melakukan kriptografiI KunciII PlaintextIII ChipertextIV Algoritma</p>{
+	~I dan II
+	~II, III dan IV
+	~II dan III
+	=Semua Benar
+}
+
+::Soal 12::[html]<p><img src="images/railfence_2.png" /><br />Apakah kunci algoritma kriptografi ini?</p>{
+	=2
+	~3
+	~4
+	~5
+}
+
+::Soal 13::[html]<p><img src="images/caesar_1.png" /><br />Apakah kunci bagi algoritma kriptografi ini?</p>{
+	~2
+	~3
+	=4
+	~5
+}
+
+::Soal 14::[html]<p>Apakah kunci bagi Caesar Cipher jika abjad pertama bermula dengan abjad F?</p>{
+	~8
+	~5
+	=6
+	~3
+}
+
+::Soal 15::[html]<p><img src="images/caesar_2.png" /><br />Apakah nama algoritma kriptografi ini?</p>{
+	=Caesar Cipher
+	~Rail Fence Cipher
+	~Pigpen Cipher
+	~Atbash Cipher
+}
+
+::Soal 16::[html]<p>Aspek dari keamanan yang menjaga agar seseorang tidak dapat menyangkal telah terjadinya transaksi disebut:</p>{
+	~Acces control
+	~Integrity
+	~Availability
+	=Non repudiation
+}
+
+::Soal 17::[html]<p>Aspek keamanan informasi pada kriptografi antara lain, kerahasian, keaslian, outentik dan tidak dapat disangkal. Padanan kata keaslian adalah</p>{
+	~Confidentiality
+	~Authentication
+	~Renouncement
+	=Data Integrity
+	~Non-repudiation
+}
+
+::Soal 18::[html]<p>Aspek keamanan informasi pada kriptografi antara lain, kerahasian, keaslian, outentik dan tidak dapat disangkal. Padanan kata "tidak dapat disangkal" adalah</p>{
+	~Confidentiality
+	~Authentication
+	~Renouncement
+	~Data Integrity
+	=Non-repudiation
+}
+
+::Soal 19::[html]<p>Beberapa layanan yang TIDAK disediakan oleh kriptografi adalah....</p>{
+	~data integrity, availability
+	=acces control, availability
+	~data confidentiality, repudiation
+	~Tidak ada jawaban yang benar
+}
+
+::Soal 20::[html]<p>Berikut ini adalah indikator pertama Anda bahwa situs menggunakan digital certificate....</p>{
+	~HTTPS in the URL
+	=A lock symbol in the browser security bar
+	~HTTP in the URL
+	~No lock symbol in the browser security bar
+}
+
+::Soal 21::[html]<p>Berikut ini bagian dari sistem kriptografi , kecuali....</p>{
+	~algoritma kriptografi
+	~chiperteks
+	=bit
+	~plainteks
+	~kunci
+}
+
+::Soal 22::[html]<p>Caesar cipher adalah merupakan:</p>{
+	~Direcalphabetic cipher
+	=Monoalphabetic Chiper
+	~Polyalphabetic cipher
+	~Semua jawaban benar
+}
+
+::Soal 23::[html]<p>Cipher.......dapat dikategorikan menjadi dua yaitu monoalphabetic dan polyalphabetic</p>{
+	=Substitusi
+	~additive
+	~Transposisi
+	~shift
+}
+
+::Soal 24::[html]<p>Dalam algoritma enkripsi pernyataan C = E (K, P) menandakan C adalah merupakan:</p>{
+	~Plaintext
+	=Chipertext
+	~Key
+	~Cryptography
+}
+
+::Soal 25::[html]<p>Dalam kriptografi, urutan huruf dalam pesan diatur ulang dengan aturan dan key tertentu oleh.....</p>{
+	=ciphers transposisi
+	~ciphers transposisi dan ciphers substitusi
+	~ciphers substitusi
+	~quadratic cipher
+}
+
+::Soal 26::[html]<p>Dalam sistem keamanan database. XSS merupakan singkatan dari...</p>{
+	=cross-site scripting
+	~extra-small scripting
+	~cross-SQLscripting
+	~xeno-site scripting
+	~extra-erver scripting
+}
+
+::Soal 27::[html]<p>Data encryption standard (DES) merupakan....</p>{
+	=block cipher
+	~bit cipher
+	~stream cipher
+	~byte cipher
+}
+
+::Soal 28::[html]<p>Data Encryyption Standard (DES) adalah metode enkripsi ........... yang diadopsi oleh pemerintah USA</p>{
+	=simetris
+	~public
+	~asimetris
+	~private
+}
+
+::Soal 29::[html]<p>Dengan menggunakan teknik 'reverse cipher', enkripsi pesan berikut, SAYA SUKA KRIPTOGRAFI</p>{
+	=HZBZ HFPZ PIRKGLTIZUR
+	~HZBZ HFPZ PIRKGKTUR
+	~HZBZ HFPZ PIRKHLHLUY
+	~HZBZ HFPZ PIRKGLTUZIR
+}
+
+::Soal 30::[html]<p>Dengan menggunakan teknik Caesar (shift 3) Cipher, enkripsi teks asal berikut: "KRIPTOGRAFI"</p>{
+	=NULSWRJUDIL
+	~NULSXRJUDIL
+	~NULSWRJUDIJ
+	~NULTWRJUDIL
+}
+
+::Soal 31::[html]<p>Dibawah ini adalah hal-hal praktis yang perlu dilakukan untuk mendukung keamanan komputer, kecuali:</p>{
+	~Penggunaan teknik kriptografi untuk memastikan integritas perangkat lunak sistem
+	~Penggunaan teknik pemrograman yang aman pada saat membuat perangkat lunak
+	=Menghindari penggunaan OTP (One Time Password)
+	~Rutinitas pemeriksaan daftar log
+}
+
+::Soal 32::[html]<p><img src="images/atbash_1.png" /><br />Enkripsi karakter berikut menggunakan teknik...</p>{
+	~return cipher
+	~repeat cipher
+	=reverse cipher
+	~rename cipher
+}
+
+::Soal 33::[html]<p>Enkripsi teks asal berikut menjadi chiper text menggunakan teknik Reverse Cipher. " ASAS SAINS KOMPUTER"</p>{
+	~ZHZH HZRMH PLNKFGVO
+	~ZHZH HZRMU PLNKFGVI
+	~ZHYH HZRMH PLNKFGVI
+	=ZHZH HZRMH PLNKFGVI
+}
+
+::Soal 34::[html]<p>Fungsi Hash mengambil sebuah blok data dan menghasilkan....</p>{
+	=string bit ukuran tetap
+	~string bit ukuran tetap dan string bit ukuran variabel
+	~string bit ukuran variabel
+	~string byte berukuran variabel
+}
+
+::Soal 35::[html]<p>Hal yang membedakan antara kriptografi kunci simetris dengan kriptografi kunci asimetris adalah....</p>{
+	~Pada kriptografi kunci simetris membutuhkan kunci publik, sedangkan kriptografi kunci asimetris tidak membutuhkan kunci publik
+	~Tidak ada perbedaan antara kriptografi kunci simetris dan kriptografi kunci asimetris
+	=Pada kriptografi kunci simetris menggunakan kunci yang sama dalam melakukan enkripsi dan dekripsi sedangkan pada kriptografi kunci asimetris menggunakan kunci yang berbeda
+	~Pada kriptografi kunci simetris menggunakan kunci yang berbeda dalam melakukan enkripsi dan dekripsi sedangkan pada kriptografi kunci asimetris menggunakan kunci sama
+}
+
+::Soal 36::[html]<p>Informasi yang telah tersandi disebut...</p>{
+	=Chipertext
+	~Plantext
+	~Cryptography
+	~Key
+}
+
+::Soal 37::[html]<p>Input dari decryption:</p>{
+	=Chipertext
+	~Key
+	~Plaintext
+	~Semua Benar
+}
+
+::Soal 38::[html]<p>inputan dari sebuah dekripsi adalah ?</p>{
+	~algoritma kriptografi
+	=chiperteks
+	~bit
+	~plainteks
+	~kunci
+}
+
+::Soal 39::[html]<p>Kelemahan dari Affine cipher mudah diserang dengan teknik.....</p>{
+	~hack-plaintext attack
+	=known-plaintext attack
+	~brute force attack
+	~known-analytical attack
+}
+
+::Soal 40::[html]<p>Kepentingan kriptografi adalah melindungi keselamatan suatu pesan seperti berikut kecuali...</p>{
+	~kesulitan data (confidentiality)
+	~pengesahan (authenticity)
+	~integritas data (integrity)
+	=masukan data (data entry)
+}
+
+::Soal 41::[html]<p>Kriptanalis dicetuskan pertama kali pada abad 9, dan pada abad 17 memakan korban jiwa Queen mary of scotland. Nama singkat pencetus kriptanalis adalah....</p>{
+	~Galileo
+	~Socrates
+	~Thomas Phelippes
+	~Al-kwarismi
+	=Alkindi
+}
+
+::Soal 42::[html]<p>Kriptografi adalah...</p>{
+	=Ilmu dan seni yang mempelajari teknik menyembunyikan pesan dalam sebuah gambar
+	~Ilmu dan seni yang mempelajari teknik mengamankan pesan sehingga hanya pengirim dan penerima saja yang dapat membacanya
+	~Ilmu dan seni menemukan pesan yang tersembunyi dalam sebuah media digital
+	~Semua jawaban benar
+}
+
+::Soal 43::[html]<p>Kriptografi berasal dari bahasa.........</p>{
+	~Arab
+	=Yunani
+	~Inggris
+	~Romawi
+}
+
+::Soal 44::[html]<p>Kriptografi berasal daripada dua suku kata, yaitu “kriptos” yang bermaksud tulis dan “graphein” bermaksud untuk sembunyi..</p>{TRUE}
+
+::Soal 45::[html]<p>Kriptografi dapat dikatakan aman apabila memenuhi prasyarat berikut ini:A. Memiliki persamaan matematis komplekB. Ukuran cipher text sangat besarC. Waktu yang dibutuhkan untuk memecahkan ciphertext melampaui umur informasiD. Cost untuk memecahkan cipher text lebih tinggi dari nilai informasiE. Menggunakan kunci symetris dan asymetris</p>{
+	~A, B, C
+	=A, C, D
+	~B, C, D
+	~A, D, E
+}
+
+::Soal 46::[html]<p>Maksud kriptografi ialah ....</p>{
+	=ilmu mengirimkan pesan dalam bentuk yang hanya dapat boleh dibaca oleh orang yang ditujukan saja
+	~ilmu untuk mengantar surat rahasia
+	~ilmu untuk menyimpan pesan untuk disampaikan kepada umum
+	~ilmu untuk menyimpan pesan di tempat rahasia
+}
+
+::Soal 47::[html]<p>Manakah dari algoritma berikut yang tidak digunakan dalam kriptografi kunci asimetris?</p>{
+	~rsa algorithm
+	=electronic code book algorithm
+	~diffie-hellman algorithm
+	~dsa algorithm
+}
+
+::Soal 48::[html]<p>Manakah dari berikut ini TIDAK akurat menggambarkan hashing...</p>{
+	~One way math function
+	=Fixed Input Length
+	~Fixed Output Length
+	~Two different inputs almost never give the same output
+}
+
+::Soal 49::[html]<p>Manakah dari berikut ini yang merupakan protokol kriptografi yang digunakan untuk mengamankan koneksi HTTP?</p>{
+	~stream control transmission protocol (SCTP)
+	~explicit congestion notification (ECN)
+	=transport layer security (TLS)
+	~resource reservation protocol
+}
+
+::Soal 50::[html]<p>Manakah dari berikut ini yang merupakan protokol kriptografi yang digunakan untuk mengamankan koneksi HTTP?</p>{
+	~stream control transmission protocol (SCTP)
+	~explicit congestion notification (ECN)
+	=transport layer security (TLS)
+	~resource reservation protocol
+}
+
+::Soal 51::[html]<p>Message digest yang dihasilkan dari Hash function untuk mentriger MACs | MICs adalah layanan kriptografi....</p>{
+	~Confidentiality &amp; Data Integrity
+	=Authentication &amp; Data Integrity
+	~Renouncement &amp; Non-repudiation
+	~Confidentiality &amp; Non-repudiation
+}
+
+::Soal 52::[html]<p>Mode operasi cipher blok yang dapat dibuat menjadi stream cipher adalah.......A. CounterB. CFB 8-bitC. OFB 8-bit</p>{
+	~A, B, dan C benar
+	=B dan C benar
+	~A dan B benar
+	~Semua jawaban salah
+}
+
+::Soal 53::[html]<p>Pada algoritma kriptografi klasik, kita kenal caesar cipher dan pada sistem operasi unix dikenal ..... yang memiliki keunikan "apabila sebuah pesan/plain text dilakukan(enkripsi) dengan metode ini sebanyak 2x maka pesan akan kembali ke semula (plain text)</p>{
+	~Cipher abjad tunggal
+	~MD5
+	=ROT13
+	~Vegenere cipher
+	~Hash
+}
+
+::Soal 54::[html]<p>Pada enkripsi ......, digunakan sepasang kunci/key yang berbeda</p>{
+	~simetris
+	=asimetris
+	~semua salah
+	~semua benar
+}
+
+::Soal 55::[html]<p>Pada Perang Dunia ke-2, tentera Nazi-Jerman mencipta sejenis mesin yang menggunakan sistem sifer dan kunci yang sangat kompleks. Mesin tersebut ialah .....</p>{
+	~mesin Braille
+	=mesin Enigma
+	~mesin Dialisis
+	~mesin Faks
+}
+
+::Soal 56::[html]<p>Perkataan Yunani 'kriptos' bermaksud...</p>{
+	~Terlihat jelas
+	~Kripto
+	~Pesan
+	=Rahasia
+}
+
+::Soal 57::[html]<p>Pernyataan manakah yang tidak benar tentang RC4?</p>{
+	~Pembangkitan kunci alir (keystream) terdapat pada subproses PRGA
+	~Panjang kunci eksternal maksimal 256 byte
+	~Kesalahan satu bit pada plainteks hanya menghasilkan kesalahan pada cipherteks yang berkoresponden
+	=Keystream yang dapat dibangkitkan oleh RC4 terbatas banyaknya
+}
+
+::Soal 58::[html]<p>Pesan "letters" dienkripsi menggunakan algoritma Caesar ciphermenghasilkan output "cvkkvij". Kunci apa yang digunakan?</p>{
+	~16
+	=17
+	~18
+	~19
+}
+
+::Soal 59::[html]<p>Pesan yang akan disampaikan dapat disamarkan atau disembunyikan maknanya agar kalau sampai jatuh ke tangan yang tidak berhak, maka maknanya tidak dapat dimengerti adalah:</p>{
+	~Authentikasi
+	=Enkripsi
+	~Dekripsi
+	~Kriptologi
+}
+
+::Soal 60::[html]<p>Proses mengacak data sehingga tidak dapat dibaca pihak lain disebut...</p>{
+	~kriptografi
+	~deskripsi
+	~graphotext
+	~plain text
+	=enkripsi
+}
+
+::Soal 61::[html]<p>Proses yang digunakan untuk mengubah informasi asli menjadi informasi yang tersandi disebut..</p>{
+	~Enkripsi
+	=Dekripsi
+	~Algoritma
+	~Chipertext
+}
+
+::Soal 62::[html]<p>Salah satu layanan dalam kriptografi adalah confidentiality yang artinya...</p>{
+	~Menjamin pesan agar dapat di akses setiap saat
+	~Memastikan agar pesan sampai di tujuan
+	~Menjaga pesan agar tidak berubah saat ditransmisikan
+	=Menjaga agar pesan hanya dapat dibaca oleh penerima yang sah
+}
+
+::Soal 63::[html]<p>Sejarah penggunaan teknik kriptografi di Yunani menggunakan alat yang di sebut ?</p>{
+	=Scytale
+	~Tales
+	~Cyclops
+	~Chiper
+}
+
+::Soal 64::[html]<p>Serangan kriptografi berdasarkan ketersediaan data terdapat 5 model/jenis, antara lain...A. Brute force attackB. Denial of service attackC. Analytical attackD. Chosen-plaintext attackE. Chipertext-only attack</p>{
+	~A, B
+	~B, C
+	~C, D
+	=D, E
+	~A, E
+}
+
+::Soal 65::[html]<p>Serangan kriptografi berdasarkan metode menemukan kunci antara lain....A. Brute force attackB. Known plain-text attackC. Analytical attackD. Chosen-plaintext attackE. Chipertext-only attack</p>{
+	~A, B
+	=A, C
+	~A, D
+	~B, C
+	~B, D
+}
+
+::Soal 66::[html]<p>Sistem enkripsi ElGamal adalah....</p>{
+	~symmetric key encryption algorithm
+	~not an encryption algorithm
+	=asymmetric key encryption algorithm
+	~block cipher method
+}
+
+::Soal 67::[html]<p>This is the generic name for the outcome of a hash function or algorithm.</p>{
+	=Checksum
+	~Message-Digest Algorithm - MD
+	~Secure Hash Algorithm - SHA
+	~Encryption Key
+}
+
+::Soal 68::[html]<p>Tujuan dari implementasi kriptografi adalah ?</p>{
+	=mengamankan data/pesan
+	~mengcopy data
+	~menghapus data
+	~duplikasi data
+}
+
+::Soal 69::[html]<p>Yang dimaksud dengan menjaga integritas data adalah...</p>{
+	~Data dapat berubah
+	~Data dapat diakses dengan mudah
+	~Data dapat di restore dengan cepat
+	=Data tidak berubah dan utuh
+}
+
+::Soal 70::[html]<p>Yang manakah pernyataan berikut merupakan definisi encryption ?</p>{
+	~Satu kajian tentang teknik kerahasiaan atau dikenali sebagai keamanan komunikasi data
+	=Satu proses perubahan teks biasa kepada chiper text, yaitu teks dalam bentuk yang tidak bermakna apabila dibaca
+	~satu proses yang berlaku terhadap chiper text untuk mendapatkan kembali teks biasa yang asal
+	~Satu teknik chiper yang paling mudah. teknik ini menggunakan cara untuk menyulitkan pesan
+}
+
+::Soal 71::[html]<p>Yang tidak termasuk layanan yang diberikan oleh kriptografi</p>{
+	~Confidentiality
+	~Authentication
+	~Integrity
+	=Repudiation
+}
+
+::Soal 72::[html]<p>Decryption adalah proses merubah suatu pesan dalam bentuk kode kepada pesan baru</p>{FALSE}
+
+::Soal 73::[html]<p>Encryption ialah proses untuk mengaburkan pesan supaya tidak dapat di baca dengan khusus</p>{TRUE}
+
+::Soal 74::[html]<p>Langkah proses kriptografi ada dua yaitu enkripsi (encryption) dan dekripsi (decryption)</p>{TRUE}
+
+::Soal 75::[html]<p>Substitution cipher merupakan teknik menggeser abjad berdasarkan kata kunci</p>{TRUE}
+
+::Soal 76::[html]<p>Tulisan Hieroglif ini ialah satu contoh kriptografi</p>{TRUE}
+
